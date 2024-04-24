@@ -1,4 +1,4 @@
-<h2 align="left">Hey ! <br>Myself Zaid Rakhange,<br>I am a Second Year Computer Engineering Diploma Student.<br>I am from Navi Mumbai.</h2>
+<h2 align="left">Hey there!</br>I'm Zaid, a second-year Computer Engineering Diploma student,</br>balancing my studies with my passion for coding and project building!</h2>
 
 ###
 
