@@ -25,7 +25,7 @@
   I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
 </p>
 
-- 🔭 I'm currently working on **[Project Showcase](https://github.com/zaid-commits/Project-Showcase)**, **[Password Manager](https://github.com/zaid-commits/Password-Manager)**, and **[Work Tracker](https://github.com/zaid-commits/Work-Tracker)**
+- 🔭 I'm currently working on **[Project Showcase](https://github.com/zaid-commits/Project-Showcase)**
 - 🌱 I'm currently learning **ReactJS**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Swing**
@@ -105,11 +105,13 @@
 
 ---
 
-<h2 align="center">📈 GitHub Activity Graph</h2>
+ <!--<h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zaid-commits&theme=radical&hide_border=true" alt="GitHub Activity Graph">
-</p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zaid-commits&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+</p>-->
+
+
 
 ---
 
@@ -130,9 +132,10 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vQXT3G8VJz7gfF2/giphy.gif" alt="Thank you for visiting my profile!" width="400">
+   <img src="https://media.tenor.com/7GbS8wcdJpAAAAAM/thank-you-again-crisstopher.gif" alt="Thank you for visiting my profile!" width="300">
 </p>
 
 <p align="center">
-  Thank you for taking the time to explore my GitHub profile! I appreciate your interest and look forward to potential collaborations or opportunities to learn from one another. Feel free to reach out to me anytime!
+  🚀 Thank you for checking out my profile! Let's connect and build amazing things together. Feel free to reach out to me for collaborations or just to say hi! 🌟
 </p>
+
