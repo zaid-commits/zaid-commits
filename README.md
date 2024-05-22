@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Zaid! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/your-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zaidrakhange"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/zaid_suiii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/zxfdsa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:zaidcommits.github@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -25,19 +25,19 @@
   I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
 </p>
 
-- 🔭 I'm currently working on **[College Management System](https://github.com/zaid-commits/college-management-system)**
-- 🌱 I'm currently learning **Advanced Java Programming, Web Development with JavaScript, and Front-end Frameworks**
+- 🔭 I'm currently working on **[Project Showcase](https://github.com/zaid-commits/Project-Showcase)**, **[Password Manager](https://github.com/zaid-commits/Password-Manager)**, and **[Work Tracker](https://github.com/zaid-commits/Work-Tracker)**
+- 🌱 I'm currently learning **ReactJS**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Java, Swing, HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Swing**
 - ⚡ Fun fact: **I love to play volleyball and I am passionate about technology!**
 
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/your-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zaidrakhange"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/zaid_suiii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/zxfdsa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:zaidcommits.github@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -53,6 +53,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Swing" src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -67,9 +68,9 @@
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/zaid-commits/college-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=college-management-system&theme=radical" alt="College Management System"></a>
-  <a href="https://github.com/zaid-commits/notepad-application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=notepad-application&theme=radical" alt="Notepad Application"></a>
-  <a href="https://github.com/zaid-commits/employee-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=employee-management-system&theme=radical" alt="Employee Management System"></a>
+  <a href="https://github.com/zaid-commits/Project-Showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Project-Showcase&theme=radical" alt="Project Showcase"></a>
+  <a href="https://github.com/zaid-commits/Password-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Password-Manager&theme=radical" alt="Password Manager"></a>
+  <a href="https://github.com/zaid-commits/Work-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Work-Tracker&theme=radical" alt="Work Tracker"></a>
 </p>
 
 ---
@@ -95,7 +96,7 @@
 <h2 align="center">🌟 Open Source Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/zaid-commits/repository-name"><img src="https://opencollective.com/webpack/donate/button.png?color=blue" alt="Open Source Contributions"></a>
+  <a href="https://github.com/zaid-commits/Project-Showcase"><img src="https://opencollective.com/webpack/donate/button.png?color=blue" alt="Open Source Contributions"></a>
 </p>
 
 <p align="center">
