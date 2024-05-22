@@ -1,78 +1,137 @@
-<h1 align="center">Hey there! 👋</h1>
-
-<h3 align="center">I'm Zaid, a second-year Computer Engineering Diploma student,</br>balancing my studies with my passion for coding and project building!</h3>
+<h1 align="center">Hi there, I'm Zaid! 👋</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/vcOEkfwV37AAAAAd/anonymous-protest.gif" alt="coding" height="200">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/your-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaid-commits&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-commits" />
+  <img src="https://img.shields.io/github/followers/zaid-commits?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zaid-commits?label=Stars&style=flat&color=0e75b6" alt="Stars" />
 </p>
 
 ---
 
-<h3 align="center">🚀 Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaid-commits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-commits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-<h3 align="center">🛠 Languages and Tools</h3>
+<h2 align="center">🙋‍♂️ About Me</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding" width="400">
+</p>
+
+<p align="center">
+  I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
+</p>
+
+- 🔭 I'm currently working on **[College Management System](https://github.com/zaid-commits/college-management-system)**
+- 🌱 I'm currently learning **Advanced Java Programming, Web Development with JavaScript, and Front-end Frameworks**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **Java, Swing, HTML, CSS, JavaScript**
+- ⚡ Fun fact: **I love to play volleyball and I am passionate about technology!**
+
+<h3 align="center">📫 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/your-instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  Feel free to reach out to me on any of these platforms! I'm always excited to connect with fellow developers, discuss new ideas, and explore potential collaborations.
 </p>
 
 ---
 
-<h3 align="center">📫 Connect with me</h3>
+<h2 align="center">🛠 Skills & Technologies</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/zaiddddddd_16/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/channels/@me/1179689942012661791" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:zaidcommits.github@gmail.com?subject=Hello Zaid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/zaid-rakhange-47a5b32b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="Swing" src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img alt="Web3Forms" src="https://img.shields.io/badge/Web3Forms-292929?style=for-the-badge&logoColor=white"/>
+  <img alt="Project Cost Estimation" src="https://img.shields.io/badge/Project%20Cost%20Estimation-blue?style=for-the-badge&logo=project&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">🐍 Commit Snake</h3>
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaid-commits/zaid-commits/output/snake.svg" alt="Snake animation" />
+  <a href="https://github.com/zaid-commits/college-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=college-management-system&theme=radical" alt="College Management System"></a>
+  <a href="https://github.com/zaid-commits/notepad-application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=notepad-application&theme=radical" alt="Notepad Application"></a>
+  <a href="https://github.com/zaid-commits/employee-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=employee-management-system&theme=radical" alt="Employee Management System"></a>
 </p>
 
 ---
 
-<h3 align="center">👨‍💻 Profile Views</h3>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/zaid-commits/count.svg" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaid-commits&show_icons=true&theme=radical" alt="Zaid's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-commits&layout=compact&theme=radical" alt="Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-commits&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Profile Trophy</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaid-commits&theme=radical&no-bg=true&no-frame=true" alt="GitHub Profile Trophy">
+</p>
+
+---
+
+<h2 align="center">🌟 Open Source Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/zaid-commits/repository-name"><img src="https://opencollective.com/webpack/donate/button.png?color=blue" alt="Open Source Contributions"></a>
+</p>
+
+<p align="center">
+  I believe in the power of open source and love contributing to projects that make a positive impact. If you have an open source project that you think I could contribute to, feel free to reach out to me or check out my contributions below.
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=zaid-commits&theme=radical&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+<h2 align="center">📚 Latest Blog Posts</h2>
+
+<p align="center">
+  <ul>
+    <li><a href="https://your-blog-link.com/java-swing">Understanding Java Swing for GUI Development</a></li>
+    <li><a href="https://your-blog-link.com/responsive-portfolio">How to Build a Responsive Portfolio Website</a></li>
+    <li><a href="https://your-blog-link.com/web3forms">Introduction to Web3Forms for Contact Forms</a></li>
+  </ul>
+</p>
+
+<p align="center">
+  I enjoy sharing my knowledge and experience through blogging. Check out my latest posts above, and be sure to subscribe to stay updated with my latest writings!
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer" />
+  <img src="https://media.giphy.com/media/l3vQXT3G8VJz7gfF2/giphy.gif" alt="Thank you for visiting my profile!" width="400">
+</p>
+
+<p align="center">
+  Thank you for taking the time to explore my GitHub profile! I appreciate your interest and look forward to potential collaborations or opportunities to learn from one another. Feel free to reach out to me anytime!
 </p>
