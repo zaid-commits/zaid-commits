@@ -38,6 +38,7 @@
   <a href="https://twitter.com/zaid_suiii"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/zxfdsa"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:zaidcommits.github@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://zaidrakhange.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -64,6 +65,7 @@
 </p>
 
 ---
+
 
 <h2 align="center">🚀 Projects</h2>
 
@@ -105,16 +107,6 @@
 
 ---
 
- <!--<h2 align="center">📈 GitHub Activity Graph</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zaid-commits&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
-</p>-->
-
-
-
----
-
 <h2 align="center">📚 Latest Blog Posts</h2>
 
 <p align="center">
@@ -138,4 +130,3 @@
 <p align="center">
   🚀 Thank you for checking out my profile! Let's connect and build amazing things together. Feel free to reach out to me for collaborations or just to say hi! 🌟
 </p>
-
