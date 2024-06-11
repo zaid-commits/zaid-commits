@@ -17,9 +17,7 @@
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding" width="400">
-</p>
+
 
 <p align="center">
   I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
