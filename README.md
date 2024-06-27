@@ -23,10 +23,10 @@
   I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
 </p>
 
-- 🔭 I'm currently working on **[Project Showcase](https://github.com/zaid-commits/Project-Showcase)**
+- 🔭 I'm currently working on **[Project Showcase](https://github.com/zaid-commits/Regal-Fire)**
 - 🌱 I'm currently learning **ReactJS**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, Swing**
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, Java, Swing, Php,**
 - ⚡ Fun fact: **I love to play volleyball and I am passionate about technology!**
 
 <h3 align="center">📫 Connect with Me</h3>
@@ -104,20 +104,6 @@
 </p>
 
 ---
-
-<h2 align="center">📚 Latest Blog Posts</h2>
-
-<p align="center">
-  <ul>
-    <li><a href="https://your-blog-link.com/java-swing">Understanding Java Swing for GUI Development</a></li>
-    <li><a href="https://your-blog-link.com/responsive-portfolio">How to Build a Responsive Portfolio Website</a></li>
-    <li><a href="https://your-blog-link.com/web3forms">Introduction to Web3Forms for Contact Forms</a></li>
-  </ul>
-</p>
-
-<p align="center">
-  I enjoy sharing my knowledge and experience through blogging. Check out my latest posts above, and be sure to subscribe to stay updated with my latest writings!
-</p>
 
 ---
 
