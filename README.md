@@ -68,9 +68,11 @@
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/zaid-commits/Project-Showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Project-Showcase&theme=radical" alt="Project Showcase"></a>
-  <a href="https://github.com/zaid-commits/Password-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Password-Manager&theme=radical" alt="Password Manager"></a>
-  <a href="https://github.com/zaid-commits/Work-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Work-Tracker&theme=radical" alt="Work Tracker"></a>
+  <a href="https://github.com/zaid-commits/Discord-Invite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Discord-Invite&theme=radical" alt="Discord Invite"></a>
+  <a href="https://github.com/zaid-commits/Portfolio-Repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Portfolio-Repo&theme=radical" alt="Portfolio Repo"></a>
+  <a href="https://github.com/zaid-commits/EmaanAudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=EmaanAudio&theme=radical" alt="EmaanAudio"></a>
+  <a href="https://github.com/zaid-commits/Wisdom-Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Wisdom-Whisper&theme=radical" alt="Wisdom Whisper"></a>
+  <a href="https://github.com/zaid-commits/Tahajjud-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Tahajjud-Calculator&theme=radical" alt="Tahajjud Calculator"></a>
 </p>
 
 ---
