@@ -95,20 +95,6 @@
 
 ---
 
-<h2 align="center">🌟 Open Source Contributions</h2>
-
-<p align="center">
-  <a href="https://github.com/zaid-commits/Project-Showcase"><img src="https://opencollective.com/webpack/donate/button.png?color=blue" alt="Open Source Contributions"></a>
-</p>
-
-<p align="center">
-  I believe in the power of open source and love contributing to projects that make a positive impact. If you have an open source project that you think I could contribute to, feel free to reach out to me or check out my contributions below.
-</p>
-
----
-
----
-
 <p align="center">
    <img src="https://media.tenor.com/7GbS8wcdJpAAAAAM/thank-you-again-crisstopher.gif" alt="Thank you for visiting my profile!" width="300">
 </p>
