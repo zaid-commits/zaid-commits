@@ -23,7 +23,7 @@
   I'm a second-year Computer Engineering Diploma student with a passion for coding and project building. I love creating innovative solutions and exploring new technologies. When I'm not coding, you can find me playing volleyball or indulging in my love for technology.
 </p>
 
-- 🔭 I'm currently working on a **[Client's Company](https://github.com/zaid-commits/Regal-Fire)**
+- 🔭 I'm currently working with **[Regal Fire](https://regalfire.netlify.app)**
 - 🌱 I'm currently learning **ReactJS**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, Java, Swing, Php,**
