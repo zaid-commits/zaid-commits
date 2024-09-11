@@ -64,17 +64,6 @@
 
 ---
 
-
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/zaid-commits/Discord-Invite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Discord-Invite&theme=radical" alt="Discord Invite"></a>
-  <a href="https://github.com/zaid-commits/Portfolio-Repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Portfolio-Repo&theme=radical" alt="Portfolio Repo"></a>
-  <a href="https://github.com/zaid-commits/EmaanAudio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=EmaanAudio&theme=radical" alt="EmaanAudio"></a>
-  <a href="https://github.com/zaid-commits/Wisdom-Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Wisdom-Whisper&theme=radical" alt="Wisdom Whisper"></a>
-  <a href="https://github.com/zaid-commits/Tahajjud-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-commits&repo=Tahajjud-Calculator&theme=radical" alt="Tahajjud Calculator"></a>
-</p>
-
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
