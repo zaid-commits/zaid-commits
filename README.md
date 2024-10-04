@@ -5,8 +5,6 @@
   # 👋 Hi, I'm Zaid  
   ### Crafting seamless user experiences & solving complex problems through code
 
-  ![Profile Banner](https://media.giphy.com/media/26FPGQwaBbnkVntvC/giphy.gif)
-
 </div>
 
 ---
