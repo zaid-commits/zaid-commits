@@ -11,7 +11,7 @@
 
 ### 🌱 **Currently Learning**
 - **FastAPI** & **Python(Machine Learning)**
-- Expanding expertise in **Web Development** and diving into **Machine Learning**
+- Expanding expertise in **Python** and diving into **Machine Learning**
 
 ---
 
