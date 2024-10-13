@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # 👋 Hi, I'm Zaid  
+  # 👋 Yoo, Zaid Here!
   ### Crafting seamless user experiences & solving complex problems through code
 
 </div>
