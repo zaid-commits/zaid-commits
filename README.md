@@ -10,7 +10,7 @@
 ---
 
 ### 🌱 **Currently Learning**
-- **TypeScript** & **Python(Machine Learning)**
+- **FastAPI** & **Python(Machine Learning)**
 - Expanding expertise in **Web Development** and diving into **Machine Learning**
 
 ---
