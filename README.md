@@ -11,7 +11,7 @@
 <div align="center">
 
 ### 🔭 Current Focus
-🤖 Developing cutting-edge **Deepfake Detection Technology**
+🤖 Developing a **Deepfake Detection Technology** to bring it to life.
 
 ### 🌱 Expanding Horizons
 - Mastering **FastAPI** & **Python (Machine Learning)**
