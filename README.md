@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
   # 🚀 Zaid Rakhange | Web Developer & AI Enthusiast
 
@@ -24,8 +24,8 @@
 <details>
 <summary>👨‍💻 About Me</summary>
 
-- 🎨 Passionate **Front-End Web Developer** with an eye for design
-- 🤝 Open to **collaborations** on innovative web and AI projects
+- 🎨 Passionate **Front-End Web Developer** with an eye for design.
+- 🤝 Open to **collaborations** on innovative web and Computer Vision projects
 - 🧠 Constantly learning and sharpening my **problem-solving skills**
 - 🌟 Committed to creating technology that makes a difference
 
