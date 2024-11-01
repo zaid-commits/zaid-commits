@@ -1,6 +1,6 @@
   <div align="center">
 
-  # Web Developer & AI Enthusiast 🚀
+  # Web Dev & AI Enthusiast 🚀
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Crafting+seamless+user+experiences;Solving+complex+problems+through+code;Building+the+future+with+AI)](https://git.io/typing-svg)
 
