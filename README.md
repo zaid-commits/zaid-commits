@@ -1,6 +1,6 @@
   <div align="center">
 
-  # Builds what he wishes! 🚀
+  # Builds what he wishes 🚀
 </div>
 
 ---
