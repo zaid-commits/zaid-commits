@@ -25,7 +25,7 @@
 <h2 align="center">🔥 GitHub Streaks</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-commits&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-commits&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
