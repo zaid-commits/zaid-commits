@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komare.com/ghpvc/?username=zaid-commits&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zaid-commits&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/zaid-commits?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/zaid-commits?style=social" alt="GitHub stars" />
 </p>
