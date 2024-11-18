@@ -46,16 +46,6 @@
   <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-3776AB?style=for-the-badge&logo=python" alt="Exploring AI & ML" />
 </div>
 
----
-
-<h2 align="center">🌟 Coding Superpowers</h2>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
----
-
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
@@ -70,35 +60,11 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <h3>💡 "The only way to do great work is to love what you do." - Steve Jobs</h3>
 </div>
 
----
-
-<details>
-<summary>🎵 Now Playing</summary>
-<div align="center">
-  <a href="https://open.spotify.com/user/3134l6ilprdkst27wkyu2injbaku?si=cL_vLCK1Q76FHkynygBE1A">
-    <img src="https://open.spotify.com/user/3134l6ilprdkst27wkyu2injbaku?si=cL_vLCK1Q76FHkynygBE1A" alt="Spotify Now Playing" width="350" />
-  </a>
-</div>
-</details>
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/zaid-commits/repo/pull/123) in [zaid-commits/repo](https://github.com/zaid-commits/repo)
-2. 💪 Opened PR [#456](https://github.com/zaid-commits/repo/pull/456) in [zaid-commits/repo](https://github.com/zaid-commits/repo)
-3. 🗣 Commented on [#789](https://github.com/zaid-commits/repo/issues/789) in [zaid-commits/repo](https://github.com/zaid-commits/repo)
-<!--END_SECTION:activity-->
-
-</details>
-
----
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
